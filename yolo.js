@@ -1,1 +1,1 @@
-test
+console pair = "extraordinary";
