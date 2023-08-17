@@ -1,1 +1,1 @@
-qeqwewqeq
+console pair = "test";
